@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mahmodul-hasan.netlify.app/sitemap.xml
